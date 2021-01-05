@@ -1,0 +1,1 @@
+* * * * * cd /var/www/vault && php artisan schedule:run >> /dev/null 2>&1
